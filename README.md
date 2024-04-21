@@ -4,11 +4,12 @@ This is a weather forecast web application built with React and Vite.
 
 ## Features
 
-- Display weather forecast data
-- Interactive user interface
-- Responsive design
+- Display weather forecast data.
+- Interactive user interface.
+- Responsive design.
+  
 
-> Check Website --   [CLICK]("https://weather-ui-react.onrender.com/")
+> Go Live: ("https://weather-ui-react.onrender.com/")
   
 
 
