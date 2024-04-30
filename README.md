@@ -19,7 +19,7 @@ Presenting a next-generation weather forecast web app powered by React and Vite,
 
 - React Js
 - Redux
-- React Toolkit
+- React DOM
 - Axios
 
 ### Installation
