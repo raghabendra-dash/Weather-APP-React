@@ -15,12 +15,12 @@ Presenting a next-generation weather forecast web app powered by React and Vite,
 
 ## Getting Started
 
-### Prerequisites
+### Tech Stack 
 
-Make sure you have Node.js and npm installed on your machine.
-
-- Node.js (v14.x or higher)
-- npm (v6.x or higher)
+- React Js
+- Redux
+- React Toolkit
+- Axios
 
 ### Installation
 
